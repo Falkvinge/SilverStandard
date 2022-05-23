@@ -12,7 +12,7 @@
   "packs": [],
   "url": "https://github.com/Falkvinge/SilverStandard/",
   "manifest": "https://raw.githubusercontent.com/Falkvinge/SilverStandard/master/module.json",
-  "download": "https://github.com/Falkvinge/SilverStandard/archive/refs/tags/0.1.zip",
+  "download": "https://github.com/Falkvinge/SilverStandard/archive/refs/tags/0.11.zip",
   "minimumCoreVersion": "0.5.5",
   "compatibleCoreVersion": "0.6.6"
 

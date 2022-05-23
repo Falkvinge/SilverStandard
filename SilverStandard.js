@@ -28,7 +28,8 @@ Hooks.once('ready', () => {
     const convert = {
       cp: {into: "sp", each: 100},
       sp: {into: "gp", each: 1000},
-      gp: {into: "pp", each: 1000}
+      gp: {into: "pp", each: 1000},
+      pp: {into: "mp", each: 1000}
     };
     for ( let [c, t] of Object.entries(convert) ) {
       let change = Math.floor(curr[c] / t.each);

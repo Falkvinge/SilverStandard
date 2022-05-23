@@ -1,7 +1,7 @@
 {
-  "name": "UnequalEconomy",
-  "title": "Unequal Economy",
-  "description": "Makes the economy vastly more unequal by increasing range: 100 copper per silver, 1000 silver per gold, ditto gold per platinum",
+  "name": "HDREconomy",
+  "title": "HDR Economy",
+  "description": "Makes the economy vastly more unequal by increasing dynamic range: 100 copper per silver, 1000 silver per gold, ditto gold per platinum, ditto platinum per mithril",
   "version": "0.1",
   "author": "Falkvinge",
   "systems": ["dnd5e"],
